@@ -56,7 +56,7 @@ header li a {
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/vegetal1.JPG) fixed 50% 50%;
+  background: url(https://cdn.discordapp.com/attachments/769215941896568852/809127201072611348/vegetal1.jpg) no-repeat fixed 50% 50%;
   background-size: cover;
   height: 569px;
 }
