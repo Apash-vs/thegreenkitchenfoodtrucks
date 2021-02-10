@@ -56,7 +56,7 @@ header li a {
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/vegetal1.JPG) no-repeat fixed 50% 50%;
+  background: url(media/vegetal1.JPG) fixed 50% 50%;
   background-size: cover;
   height: 569px;
 }
